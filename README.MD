@@ -1,4 +1,4 @@
-## Flaskr an example application written in Python/Flask
+## It is a **vulnerable** Flask Web App
 
 ![Flask plus Codefresh](docker-flask-codefresh.jpg)
 
